@@ -1,0 +1,3 @@
+Login Function:
+1. Design UI
+2. Handle login (Validation,...)
